@@ -2,7 +2,7 @@
   'use strict';
 
   // Remplacez cette valeur si le numéro WhatsApp de réception change.
-  const WHATSAPP_NUMBER = '2250706797575';
+  const WHATSAPP_NUMBER = '2250586934785';
 
   const PASSES = {
     PASS: { label: 'PASS', price: 4000 },
